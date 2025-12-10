@@ -10,4 +10,5 @@ if login_digitado == login_salvo and senha_digitada == senha_salva:
 elif login_digitado != login_salvo  or senha_digitada != senha_salva:
     print("Acesso Negado: Credenciais de baixo riso ou padrão de segurança.")
 else:
-    print("Erro de Acesso: login ou senha inválidos")
+    print("Erro de Acesso: Login ou senha inválidos!")
+
